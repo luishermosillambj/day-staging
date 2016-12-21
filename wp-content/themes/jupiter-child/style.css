@@ -1,0 +1,53 @@
+/*
+Theme Name:     Jupiter Child Theme
+Theme URI: 		http://themeforest.net/user/artbees
+Description:    Child theme for the Jupiter theme 
+Author:         Your name here
+Theme URI: 		http://themeforest.net/user/artbees
+Template:       jupiter
+Version:        1.0
+*/
+
+/* Custom Fonts */
+
+@font-face {
+  font-family: 'TradeGothicLTStd';
+  src: url('fonts/TradeGothicLTStd.eot?#iefix') format('embedded-opentype'),  url('fonts/TradeGothicLTStd.otf')  format('opentype'),
+	     url('fonts/TradeGothicLTStd.woff') format('woff'), url('fonts/TradeGothicLTStd.ttf')  format('truetype'), url('fonts/TradeGothicLTStd.svg#TradeGothicLTStd') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TradeGothicLTStd-Extended';
+  src: url('fonts/TradeGothicLTStd-Extended.eot?#iefix') format('embedded-opentype'),  url('fonts/TradeGothicLTStd-Extended.otf')  format('opentype'),
+	     url('fonts/TradeGothicLTStd-Extended.woff') format('woff'), url('fonts/TradeGothicLTStd-Extended.ttf')  format('truetype'), url('fonts/TradeGothicLTStd-Extended.svg#TradeGothicLTStd-Extended') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TradeGothicLTStd-BoldExt';
+  src: url('fonts/TradeGothicLTStd-BoldExt.eot?#iefix') format('embedded-opentype'),  url('fonts/TradeGothicLTStd-BoldExt.otf')  format('opentype'),
+	     url('fonts/TradeGothicLTStd-BoldExt.woff') format('woff'), url('fonts/TradeGothicLTStd-BoldExt.ttf')  format('truetype'), url('fonts/TradeGothicLTStd-BoldExt.svg#TradeGothicLTStd-BoldExt') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'TradeGothicLTStd-Bold';
+  src: url('fonts/TradeGothicLTStd-Bold.eot?#iefix') format('embedded-opentype'),  url('fonts/TradeGothicLTStd-Bold.otf')  format('opentype'),
+	     url('fonts/TradeGothicLTStd-Bold.woff') format('woff'), url('fonts/TradeGothicLTStd-Bold.ttf')  format('truetype'), url('fonts/TradeGothicLTStd-Bold.svg#TradeGothicLTStd-Bold') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: 'TradeGothicLTStd-BdCn20';
+  src: url('fonts/TradeGothicLTStd-BdCn20.eot?#iefix') format('embedded-opentype'),  url('fonts/TradeGothicLTStd-BdCn20.otf')  format('opentype'),
+	     url('fonts/TradeGothicLTStd-BdCn20.woff') format('woff'), url('fonts/TradeGothicLTStd-BdCn20.ttf')  format('truetype'), url('fonts/TradeGothicLTStd-BdCn20.svg#TradeGothicLTStd-BdCn20') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
